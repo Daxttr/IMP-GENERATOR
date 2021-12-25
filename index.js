@@ -26,7 +26,7 @@ image_array = [
 'like.png',
 'lerezo.png',
 'lepulgue.png',
-'kelltheraccoon.png',
+'killtheraccoon.png',
 'kieres.png',
 'keriktewebee.png',
 'inception.png',
